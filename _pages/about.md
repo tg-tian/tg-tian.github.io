@@ -24,7 +24,7 @@ My research interest includes computer network and data scientist.
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MDPI 2022</div><img src='images/mdpi-information-logo.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MDPI 2022</div><img src='images/mdpi-tion-logo.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DNS Request Log Analysis of Universities in Shanghai: A CDN Service Provider’s Perspective (mdpi.com)](https://www.mdpi.com/2078-2489/13/11/542)
@@ -32,7 +32,6 @@ My research interest includes computer network and data scientist.
 **Zhiyang Sun**, Tiancheng Guo, Shiyu Luo, Yingqiu Zhuang, Yuke Ma, Yang Chen, Xin Wang.
 
 # 🎖 Honors and Awards
-
 
 # ☀️ Experience
 
