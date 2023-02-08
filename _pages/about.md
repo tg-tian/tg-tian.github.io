@@ -18,12 +18,9 @@ redirect_from:
 
 I'm a graduate student from Fudan university majoring in computer science and technology.
 
-My research interest includes computer network and data scientist. 
+My research interest includes computer network and data scientist.
 
 # 🔥 Status
-
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 📝 Publications
 
@@ -34,32 +31,16 @@ My research interest includes computer network and data scientist.
 
 **Zhiyang Sun**, Tiancheng Guo, Shiyu Luo, Yingqiu Zhuang, Yuke Ma, Yang Chen, Xin Wang.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) `<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>``</strong>`
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-
-</div>
-</div>
-
-
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
 
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
-# 📖 Educations
+# ☀️ Experience
+
+## 📖 Education
 
 - **Bachelor of Computer Science and Japanese (Sep. 2015 - Jul. 2020)**
   Department of Computer Science and technology, Dalian University of Technology.
 
-# 💬 Invited Talks
+## 💻 Employment
 
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- 深圳市普联技术有限公司。嵌入式软件开发工程师。
