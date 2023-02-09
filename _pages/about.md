@@ -20,7 +20,7 @@ I'm a graduate student from Fudan university majoring in computer science and te
 
 My research interest includes computer network and data scientist.
 
-# 📝 Publications
+# :newspaper: Publications
 
 ***MDPI, 2022***
 
@@ -40,7 +40,7 @@ My research interest includes computer network and data scientist.
 
 
 
-# 📖 Education
+# :books: Education
 
 - **Graduate Student of Computer Science Department (Sep.2022 - now)**
 
@@ -56,9 +56,9 @@ My research interest includes computer network and data scientist.
   >
   > Dalian University of Technology
 
-# :man_health_worker: Working Experience
+# :briefcase: Working Experience
 
-- **Embedded Software Engineer, TP-Link Technologies Co., Ltd.** (Jul.2020 - Jun. 2022)** 
+- **Embedded Software Engineer, TP-Link Technologies Co., Ltd. (Jul.2020 - Jun. 2022)** 
 
   >  Intelligence and Security Section, Commercial Product Development Department (2020-2021)
   >
