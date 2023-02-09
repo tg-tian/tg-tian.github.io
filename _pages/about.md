@@ -40,7 +40,7 @@ My research interest includes computer network and data scientist.
 
 
 
-# :books: Education
+# :book: Education
 
 - **Graduate Student of Computer Science Department (Sep.2022 - now)**
 
