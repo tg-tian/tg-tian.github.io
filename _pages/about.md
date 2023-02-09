@@ -20,25 +20,48 @@ I'm a graduate student from Fudan university majoring in computer science and te
 
 My research interest includes computer network and data scientist.
 
-# 🔥 Status
-
 # 📝 Publications
 
-*MDPI, 2022*
+***MDPI, 2022***
 
 [DNS Request Log Analysis of Universities in Shanghai: A CDN Service Provider’s Perspective (mdpi.com)](https://www.mdpi.com/2078-2489/13/11/542)
 
-**Zhiyang Sun**, Tiancheng Guo, Shiyu Luo, Yingqiu Zhuang, Yuke Ma, Yang Chen, Xin Wang.
+**Zhiyang Sun**, Tiancheng Guo, Shiyu Luo, Yingqiu Zhuang, **Yuke Ma**, Yang Chen, Xin Wang.
+
+---
+
+***ICC, 22***
+
+<u>SocialCache: A Pervasive Social-Aware Caching Strategy for Self-Operated Content Delivery Networks of Online Social Networks.</u>
+
+**Tiancheng Guo**, **Yuke Ma**, Mengying Zhou, Xin Wang, Jun Wu, Yang Chen.
+
+---
+
+
+
+# 📖 Education
+
+- **Graduate Student of Computer Science Department (Sep.2022 - now) **
+
+  > Department of Computer Science and technology
+  >
+  > Fudan University
+
+---
+
+- **Bachelor of Computer Science and Japanese (Sep. 2015 - Jun. 2020)**
+
+  > Department of Computer Science and technology
+  >
+  > Dalian University of Technology
+
+# :man_health_worker: Working Experience
+
+- **Embedded Software Engineer, TP-Link Technologies Co., Ltd.** (Jul.2020 - Jun. 2022)** 
+
+  >  Intelligence and Security Section, Commercial Product Development Department (2020-2021)
+  >
+  >  Consumer Electronics R&D Department, Robotics Group （2021-2022）
 
 # 🎖 Honors and Awards
-
-# ☀️ Experience
-
-## 📖 Education
-
-- **Bachelor of Computer Science and Japanese (Sep. 2015 - Jul. 2020)**
-  Department of Computer Science and technology, Dalian University of Technology.
-
-## 💻 Employment
-
-- 深圳市普联技术有限公司。嵌入式软件开发工程师。
