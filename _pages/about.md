@@ -16,9 +16,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a graduate student from Fudan university majoring in computer science and technology.
+I am currently a graduate student at Fudan University, under the supervision of Professor [Yang Chen](https://chenyang03.wordpress.com/). Prior to this, I obtained my Bachelor's degree from the School of Computer Science and Technology at [Dalian University of Technology](https://www.dlut.edu.cn/) in 2020. After graduating, from June 2020 to June 2022, I worked as an embedded software development engineer in the Consumer Electronics R&D Department at [TP-LINK](https://www.tp-link.com/en/), focusing on camera and robot projects.
 
-My research interest includes computer network and data scientist.
+Since September 2022, I have been engaged in research at the School of Computer Science and Technology, Fudan University, focusing on computer networks, network measurement, and social computing. My research interests include future Internet architecture, network protocols, network security, and AI for networks.
+
+I am currently interested in distributed network systems (IPFS), cloud-native networking, and data center networks, and I am actively seeking relevant research or job opportunities in these areas.
 
 # 📰 Publications
 
