@@ -28,15 +28,15 @@ I am currently interested in distributed network systems (IPFS), cloud-native ne
 
 [DNS Request Log Analysis of Universities in Shanghai: A CDN Service Provider’s Perspective (mdpi.com)](https://www.mdpi.com/2078-2489/13/11/542)
 
-**Zhiyang Sun**, Tiancheng Guo, Shiyu Luo, Yingqiu Zhuang, **Yuke Ma**, Yang Chen, Xin Wang.
+Zhiyang Sun, Tiancheng Guo, Shiyu Luo, Yingqiu Zhuang, **Yuke Ma**, Yang Chen, Xin Wang.
 
 ---
 
-***ICC, 22***
+***ICC 2023 - IEEE International Conference on Communications***
 
-<u>SocialCache: A Pervasive Social-Aware Caching Strategy for Self-Operated Content Delivery Networks of Online Social Networks.</u>
+[SocialCache: A Pervasive Social-Aware Caching Strategy for Self-Operated Content Delivery Networks of Online Social Networks.](https://doi.org/10.1109/ICC45041.2023.10279588)
 
-**Tiancheng Guo**, **Yuke Ma**, Mengying Zhou, Xin Wang, Jun Wu, Yang Chen.
+Tiancheng Guo, **Yuke Ma**, Mengying Zhou, Xin Wang, Jun Wu, Yang Chen.
 
 ---
 
@@ -44,26 +44,43 @@ I am currently interested in distributed network systems (IPFS), cloud-native ne
 
 # 📖 Educations
 
-- **Graduate Student of Computer Science Department (Sep.2022 - now)**
-
-  > Department of Computer Science and technology
-  >
-  > Fudan University
-
----
-
 - **Bachelor of Computer Science and Japanese (Sep. 2015 - Jun. 2020)**
 
-  > Department of Computer Science and technology
-  >
-  > Dalian University of Technology
+<div style="display: flex; align-items: center;">
+    <img src="../images/Dalian_University_of_Technology_logo.svg.png" alt="fdu" width="100" height="100" style="margin-right: 2ch;">
+    <div>
+        <blockquote>
+            School of Computer Science and technology<br>
+            Dalian University of Technology
+        </blockquote>
+    </div>
+</div>
+
+
+- **Graduate Student of Computer Science Department (Sep.2022 - now)**
+
+<div style="display: flex; align-items: center;">
+    <img src="../images/Fudan_University_Logo.svg.png" alt="fdu" width="100" height="100" style="margin-right: 2ch;">
+    <div>
+        <blockquote>
+             School of Computer Science and technology<br>
+             Fudan University
+        </blockquote>
+    </div>
+</div>
+
+
+
 
 # 💼 Working Experience
 
 - **Embedded Software Engineer, TP-Link Technologies Co., Ltd. (Jul.2020 - Jun. 2022)** 
-
-  >  Intelligence and Security Section, Commercial Product Development Department (2020-2021)
-  >
-  >  Consumer Electronics R&D Department, Robotics Group （2021-2022）
+<div style="display: flex; align-items: center;">
+    <img src="../images/tplink.png" alt="tplink" width="200" height="200">
+        <blockquote>
+            Intelligence and Security Section, Commercial Product Development Department (2020-2021)<br>
+            Consumer Electronics R&D Department, Robotics Group (2021-2022)
+        </blockquote>
+</div>
 
 # 🎖 Honors and Awards
