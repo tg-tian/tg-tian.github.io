@@ -7,10 +7,10 @@ main:
     url: "/#-publications"
     
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#-education"
     
-  - title: "Working Experience"
-    url: "/#-working-experience"
+  - title: "Work Experience"
+    url: "/#-work-experience"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
