@@ -51,9 +51,11 @@ redirect_from:
 
 I am currently pursuing my graduate studies at [Fudan University](https://www.fudan.edu.cn/en/) under the guidance of Professor [Yang Chen](https://chenyang03.wordpress.com/). Prior to this, I earned my Bachelor's degree from the School of Computer Science and Technology at [Dalian University of Technology](https://www.dlut.edu.cn/) in 2020.
 
-Following my graduation, from June 2020 to June 2022, I served as an embedded software development engineer in [TP-LINK](https://www.tp-link.com/en/)'s Consumer Electronics R&D Department. During my time there, I was responsible for the development and maintenance of the TP-LINK NVR-1008H (Network Video Recorder) device, as well as the establishment of the TP-LINK robot operating system platform.
+Following my graduation, from June 2020 to June 2022, I served as an embedded software development engineer in [TP-LINK](https://www.tp-link.com/en/)'s Consumer Electronics R&D Department. During my time there, I was responsible for the development and maintenance of the [TP-LINK NVR-1008H](https://www.tp-link.com/en/business-networking/vigi-network-video-recorder/vigi-nvr1008h/) (Network Video Recorder) device, as well as the establishment of the TP-LINK robot operating system platform.
 
 Since September 2022, I have been involved in research at the School of Computer Science at Fudan University, with a focus on network systems. My research interests encompass network measurement, network simulation, network protocols and architecture design and implementation, as well as network security.
+
+In June to August 2024, I went to Max Planck Institute for Informatics in Germany, where I joined the [Network and Cloud Systems group](https://www.mpi-inf.mpg.de/departments/network-and-cloud-systems) led by Professor [Yiting Xia](https://sites.google.com/view/yitingxia) as a research intern. During this period, I independently completed the implementation of a high-precision time synchronization protocol on an FPGA-based Smart NIC.
 
 Recently, I am particularly interested in cloud-native networking (including network virtualization and containerized networking), distributed storage and network systems (including content delivery networks and InterPlanetary File System), and data center networks. I have read numerous papers on these research topics and hope to engage in related research work in the future.
 
@@ -75,6 +77,19 @@ Zhiyang Sun, Tiancheng Guo, Shiyu Luo, Yingqiu Zhuang, **Yuke Ma**, Yang Chen, X
 
 ---
 
+# 🎓 Research Intern
+
+- **Research Intern (June.2024 - Aug. 2024)**
+
+<div style="display: flex; align-items: center;">
+    <img src="../images/MPI-INF.png" alt="fdu" width="100" height="100" style="margin-right: 2ch;">
+    <div>
+        <blockquote>
+             Max Planck Institute for Informatics<br>
+             Network and Cloud Systems
+        </blockquote>
+    </div>
+</div>
 
 # 🎓 Education
 
