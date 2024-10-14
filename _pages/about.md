@@ -49,17 +49,24 @@ redirect_from:
   <h2>Hi, I am yuke :)</h2>
 </div>
 
-I am currently pursuing my graduate studies at [Fudan University](https://www.fudan.edu.cn/en/) under the guidance of Professor [Yang Chen](https://chenyang03.wordpress.com/). Prior to this, I earned my Bachelor's degree from the School of Computer Science and Technology at [Dalian University of Technology](https://www.dlut.edu.cn/) in 2020.
+I am currently pursuing my master's degree at [Fudan University](https://www.fudan.edu.cn/en/) under the supervision of Professor [Yang Chen](https://chenyang03.wordpress.com/). Prior to this, I earned my Bachelor's degree from the School of Computer Science and Technology at [Dalian University of Technology](https://www.dlut.edu.cn/) in 2020.
 
 Following my graduation, from June 2020 to June 2022, I served as an embedded software development engineer in [TP-LINK](https://www.tp-link.com/en/)'s Consumer Electronics R&D Department. During my time there, I was responsible for the development and maintenance of the [TP-LINK NVR-1008H](https://www.tp-link.com/en/business-networking/vigi-network-video-recorder/vigi-nvr1008h/) (Network Video Recorder) device, as well as the establishment of the TP-LINK robot operating system platform.
 
-Since September 2022, I have been involved in research at the School of Computer Science at Fudan University, with a focus on network systems. My research interests encompass network measurement, network simulation, network protocols and architecture design and implementation, as well as network security.
+Since September 2022, I have been involved in research at the School of Computer Science at Fudan University, with a focus on network systems. In June to August 2024, I went to Max Planck Institute for Informatics in Germany, where I joined the [Network and Cloud Systems group](https://www.mpi-inf.mpg.de/departments/network-and-cloud-systems) led by Professor [Yiting Xia](https://sites.google.com/view/yitingxia) as a research intern. During this period, I implemented a high-precision time synchronization protocol on an FPGA-based Smart NIC.
 
-In June to August 2024, I went to Max Planck Institute for Informatics in Germany, where I joined the [Network and Cloud Systems group](https://www.mpi-inf.mpg.de/departments/network-and-cloud-systems) led by Professor [Yiting Xia](https://sites.google.com/view/yitingxia) as a research intern. During this period, I independently completed the implementation of a high-precision time synchronization protocol on an FPGA-based Smart NIC.
-
-Recently, I am particularly interested in cloud-native networking (including network virtualization and containerized networking), distributed storage and network systems (including content delivery networks and InterPlanetary File System), and data center networks. I have read numerous papers on these research topics and hope to engage in related research work in the future.
+I have a broad range of research interests, primarily focused on distributed and network systems, including network protocols and architectures, network measurement and simulation, as well as Networks for AI.
 
 # 📄 Publications
+
+***Sensys 2024 - ACM Conference on Embedded Networked Sensor Systems, Hangzhou, China, 2024***
+
+Demo: CTSim: A Scalable and Flexible Cybertwin Network
+Simulator for Internet of Things Scenarios.
+
+**Yuke Ma**, Shihan Lin, Yang Chen*, Jun Wu
+
+---
 
 ***ICC 2023 - IEEE International Conference on Communications, Rome, Italy, 2023***
 
@@ -117,7 +124,7 @@ Zhiyang Sun, Tiancheng Guo, Shiyu Luo, Yingqiu Zhuang, **Yuke Ma**, Yang Chen, X
     </div>
 </div>
 
-# 💼 Work Experience 
+# 💼 Employment
 
 - **Embedded Software Engineer, TP-Link Technologies Co., Ltd. (Jul.2020 - Jun. 2022)** 
 <div style="display: flex; align-items: center;">
@@ -140,7 +147,7 @@ Zhiyang Sun, Tiancheng Guo, Shiyu Luo, Yingqiu Zhuang, **Yuke Ma**, Yang Chen, X
 
 # 🛠️ Skills
 
-- **Programming Languages**: C/C++, Python, Shell, Go
+- **Programming Languages**: C/C++, Python, Shell, Go, Verilog
 
 <div class="image-container">
   <img src="../images/The_C_Programming_Language_logo.svg.png" alt="C/C++" width="50" height="50">
@@ -148,12 +155,12 @@ Zhiyang Sun, Tiancheng Guo, Shiyu Luo, Yingqiu Zhuang, **Yuke Ma**, Yang Chen, X
   <img src="../images/Gnu-bash-logo.svg.png" alt="C/C++" width="100" height="50">
   <img src="../images/Python-logo-notext.svg.png" alt="Python" width="50" height="50">
   <img src="../images/215px-Go_Logo_Blue.svg.png" alt="Go" width="50" height="50">
+  <img src="../images/verilog.jpg" alt="Verilog" width="50" height="50">
 </div>
 
 <div class="skill-container">
-I have three years of experience building large software projects using C/C++, so I am proficient in both C/C++ and shell scripting languages. Additionally, I am currently very interested in the features of the Go language, so I am also studying related projects in Go (such as go-libp2p, kubo).
+I have more than three years of experience building large software systems using C/C++, so I am proficient in both C/C++ and shell scripting languages. I have also used Python for network measurement and simulation, as well as Go for cloud-native development. Additionally, I have experience with Verilog for FPGA development.
 </div>
-   
 
 - **Operating Systems**: Linux, Docker, Kubernetes
 <div class="image-container">
@@ -166,7 +173,9 @@ I have three years of experience building large software projects using C/C++, s
 </div>
 
 <div class="skill-container">
-While working at TPLINK, I was responsible for porting and building the operating system for robot vacuum cleaners. Therefore, I am proficient in Linux system building, Linux environment programming, and using Yocto tools for the creation of Linux distributions for embedded and IoT software. Additionally, I am very interested in cloud-native and containerization technologies.
+
+I have two years of experience in embedded software engineering, during which I was responsible for Linux system porting and build processes, as well as advanced programming and project construction in the Linux environment. I have also used Docker and Kubernetes for cloud-native development.
+
 </div>
 
 - **Network Tools and Projects**:  network simulator-3 (ns-3), zmap, tcpdump, libp2p, IPFS
@@ -180,7 +189,7 @@ While working at TPLINK, I was responsible for porting and building the operatin
 </div>
 
 <div class="skill-container">
-I am using ns-3 to build a simulation platform for future Internet architectures. As a result, I have over a year of experience reading and utilizing ns-3 source code. Since ns-3's design follows the specifications of the Linux network protocol stack, I also have a good understanding of Linux kernel networking subsystems. Additionally, I integrated an MPTCP protocol scanning module into the zmap tool, enabling me to scan and measure the entire IPv4 address space for MPTCP servers. This experience has provided me with a solid understanding of the libpcap library, which is at the core of zmap and tcpdump.<br>
+I am using ns-3 to build a simulation platform for future Internet architectures. As a result, I have more than two years of experience of using ns-3. Since it's design follows the specifications of the Linux network protocol stack, I also have a good understanding of Linux kernel networking subsystems. Additionally, I integrated an MPTCP protocol scanning module into the zmap tool, enabling me to scan and measure the entire IPv4 address space for MPTCP servers. This experience has provided me with a solid understanding of the libpcap library, which is at the core of zmap and tcpdump.<br>
 <br>
 I am currently very interested in IPFS, particularly its core library, libp2p, and I am conducting research related to it.
 </div>
