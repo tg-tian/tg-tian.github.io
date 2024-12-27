@@ -46,7 +46,7 @@ redirect_from:
 }
 </style>
 <div class="centered">
-  <h2>Hi, I am yuke :)</h2>
+  <h2>Hi, I am tiangan :)</h2>
 </div>
 
 I am currently pursuing my master's degree at [Fudan University](https://www.fudan.edu.cn/en/) under the supervision of Professor [Yang Chen](https://chenyang03.wordpress.com/). Prior to this, I earned my Bachelor's degree from the School of Computer Science and Technology at [Dalian University of Technology](https://www.dlut.edu.cn/) in 2020.
@@ -57,7 +57,7 @@ Since September 2022, I have been involved in research at the School of Computer
 
 I have a broad range of research interests, primarily focused on distributed and network systems, including network protocols and architectures, network measurement and simulation, as well as Networks for AI.
 
-# 📄 Publications
+# 📄 Projects
 
 ***Sensys 2024 - ACM Conference on Embedded Networked Sensor Systems, Hangzhou, China, 2024***
 
@@ -83,20 +83,6 @@ Tiancheng Guo, **Yuke Ma**, Mengying Zhou, Xin Wang, Jun Wu, Yang Chen.
 Zhiyang Sun, Tiancheng Guo, Shiyu Luo, Yingqiu Zhuang, **Yuke Ma**, Yang Chen, Xin Wang.
 
 ---
-
-# 🎓 Research Intern
-
-- **Research Intern (June.2024 - Aug. 2024)**
-
-<div style="display: flex; align-items: center;">
-    <img src="../images/MPI-INF.png" alt="fdu" width="100" height="100" style="margin-right: 2ch;">
-    <div>
-        <blockquote>
-             Max Planck Institute for Informatics<br>
-             Network and Cloud Systems
-        </blockquote>
-    </div>
-</div>
 
 # 🎓 Education
 

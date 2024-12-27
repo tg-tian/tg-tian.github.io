@@ -6,29 +6,29 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuke Ma"
+title                    : "田干"
 description              : "A graduate student currently studying in Fundan university in Shanghai."
-repository               : "RayeRen/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+# repository               : "RayeRen/acad-homepage.github.io"
+# google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+# google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+# google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+# bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+# baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Yuke Ma"
+  name             : "田干"
   avatar           : "images/me.jpg"
   bio              : "Fudan University"
-  location         : "Shanghai, China"
+  location         : "盐城, 江苏"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=nK10stMAAAAJ"
-  email            : "ykma22@m.fudan.edu.cn"
+  # googlescholar    : "https://scholar.google.com/citations?user=nK10stMAAAAJ"
+  邮箱            : "914837973@qq.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "myk12"
+  # github           : "myk12"
   google_plus      :
   keybase          :
   instagram        :
