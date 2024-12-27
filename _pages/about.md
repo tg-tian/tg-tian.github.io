@@ -49,13 +49,11 @@ redirect_from:
   <h2>Hi, I am tiangan :)</h2>
 </div>
 
-I am currently pursuing my master's degree at [Fudan University](https://www.fudan.edu.cn/en/) under the supervision of Professor [Yang Chen](https://chenyang03.wordpress.com/). Prior to this, I earned my Bachelor's degree from the School of Computer Science and Technology at [Dalian University of Technology](https://www.dlut.edu.cn/) in 2020.
+2024年6月毕业于南京信息工程大学计算机科学与技术专业.在大学期间，我系统学习了计算机专业的各项知识，阅读过《Modern Operating System》、《Computer Systems: A Programmer's Perspective》等经典英文教材，打下了坚实的理论基础。熟悉JAVA及其生态、掌握C++和Python，熟悉多种数据库，熟练使用Linux和git。
 
-Following my graduation, from June 2020 to June 2022, I served as an embedded software development engineer in [TP-LINK](https://www.tp-link.com/en/)'s Consumer Electronics R&D Department. During my time there, I was responsible for the development and maintenance of the [TP-LINK NVR-1008H](https://www.tp-link.com/en/business-networking/vigi-network-video-recorder/vigi-nvr1008h/) (Network Video Recorder) device, as well as the establishment of the TP-LINK robot operating system platform.
+工程经历：大二下学期我在中国电信实习，担任JAVA后端开发。任职期间开发并上线了其旗下微信小程序一项流量提速业务功能(使用Redis锁阻止恶意短信攻击，使用消息队列处理超时订单)。2024.6.18-2024.9.20期间我在三星中国研发中心(南京)Iot部门担任云服务开发工程师，负责[三星物联网设备](https://www.samsung.com/us/smartthings/?CID=afl-ecomm-rkt-cha-040122-url_Cashback+on+Bing+for+Edge+browser&utm_source=url_Cashback+on+Bing+for+Edge+browser&utm_medium=affiliate&utm_campaign=1&utm_content=3829940&rktevent=Cashback+on+Bing+for+Edge+browser__jZHTpnCvx8-_QtrxnYSwxYlNGQLTH6fWw&ranMID=47773&ranEAID=%2FjZHTpnCvx8&ranSiteID=_jZHTpnCvx8-_QtrxnYSwxYlNGQLTH6fWw)的后端服务开发。任职期间我主要负责和英国同事进行对接，进行[Samsung Food](https://samsungfood.com/)的中国区特性部署和开发，工作中我掌握了AWS(亚马逊云)的常用组件，云服务架构，以及docker、CICD等流行开发技术，英语工作环境写锻炼了我的英语文档阅读能力。
 
-Since September 2022, I have been involved in research at the School of Computer Science at Fudan University, with a focus on network systems. In June to August 2024, I went to Max Planck Institute for Informatics in Germany, where I joined the [Network and Cloud Systems group](https://www.mpi-inf.mpg.de/departments/network-and-cloud-systems) led by Professor [Yiting Xia](https://sites.google.com/view/yitingxia) as a research intern. During this period, I implemented a high-precision time synchronization protocol on an FPGA-based Smart NIC.
-
-I have a broad range of research interests, primarily focused on distributed and network systems, including network protocols and architectures, network measurement and simulation, as well as Networks for AI.
+现在我在学习从机器学习到大模型的基础知识
 
 # 📄 Projects
 
@@ -86,22 +84,11 @@ Zhiyang Sun, Tiancheng Guo, Shiyu Luo, Yingqiu Zhuang, **Yuke Ma**, Yang Chen, X
 
 # 🎓 Education
 
-- **Graduate Student of Computer Science (Sep.2022 - now)**
+
+- **Undergraduate Student of Computer Science and Technology  (Sep. 2020 - Jun. 2024)**
 
 <div style="display: flex; align-items: center;">
-    <img src="../images/Fudan_University_Logo.svg.png" alt="fdu" width="100" height="100" style="margin-right: 2ch;">
-    <div>
-        <blockquote>
-             Fudan University<br>
-             School of Computer Science Fudan University
-        </blockquote>
-    </div>
-</div>
-
-- **Undergraduate Student of Computer Science and Technology (Japanese Intensive) (Sep. 2015 - Jun. 2020)**
-
-<div style="display: flex; align-items: center;">
-    <img src="../images/Dalian_University_of_Technology_logo.svg.png" alt="fdu" width="100" height="100" style="margin-right: 2ch;">
+    <img src="../images/nuist.png" alt="fdu" width="100" height="100" style="margin-right: 2ch;">
     <div>
         <blockquote>
             Dalian University of Technology<br>
@@ -114,7 +101,7 @@ Zhiyang Sun, Tiancheng Guo, Shiyu Luo, Yingqiu Zhuang, **Yuke Ma**, Yang Chen, X
 
 - **Embedded Software Engineer, TP-Link Technologies Co., Ltd. (Jul.2020 - Jun. 2022)** 
 <div style="display: flex; align-items: center;">
-    <img src="../images/tplink.png" alt="tplink" width="150" height="100">
+    <img src="../images/samsung.jpg" alt="tplink" width="150" height="100">
         <blockquote>
             Consumer Electronics R&D Department, Intelligent Security Equipment Group (2020-2021)<br>
             Consumer Electronics R&D Department, Robotics Group (2021-2022)
