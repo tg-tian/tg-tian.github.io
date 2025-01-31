@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : " 田 干 "
-description              : "A graduate student currently studying in Fundan university in Shanghai."
+# description              : "A graduate student currently studying in Fundan university in Shanghai."
 # repository               : "RayeRen/acad-homepage.github.io"
 # google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ description              : "A graduate student currently studying in Fundan univ
 
 # Site Author
 author:
-  name             : "田干"
+  name             : "  田干  "
   avatar           : "images/me.png"
-  bio              : "Fudan University"
+  # bio              : "Fudan University"
   location         : "盐城, 江苏"
   employer         :
   pubmed           : 
