@@ -49,7 +49,7 @@ redirect_from:
   <h2>Hi, I am tiangan :)</h2>
 </div>
 
-2024年6月毕业于南京信息工程大学计算机科学与技术专业.在大学期间，我系统学习了计算机专业的各项知识，阅读过《Modern Operating System》、《Computer Systems: A Programmer's Perspective》等经典英文教材，打下了坚实的理论基础。熟悉JAVA及其生态、掌握C++和Python，熟悉多种数据库，熟练使用Linux和git。
+
 
 工程经历：大二下学期我在中国电信实习，担任JAVA后端开发。任职期间开发并上线了其旗下微信小程序一项流量提速业务功能(使用Redis锁阻止恶意短信攻击，使用消息队列处理超时订单)。2024.6.18-2024.9.20期间我在三星中国研发中心(南京)Iot部门担任云服务开发工程师，负责[三星物联网设备](https://www.samsung.com/us/smartthings/?CID=afl-ecomm-rkt-cha-040122-url_Cashback+on+Bing+for+Edge+browser&utm_source=url_Cashback+on+Bing+for+Edge+browser&utm_medium=affiliate&utm_campaign=1&utm_content=3829940&rktevent=Cashback+on+Bing+for+Edge+browser__jZHTpnCvx8-_QtrxnYSwxYlNGQLTH6fWw&ranMID=47773&ranEAID=%2FjZHTpnCvx8&ranSiteID=_jZHTpnCvx8-_QtrxnYSwxYlNGQLTH6fWw)的后端服务开发。任职期间我主要负责和英国同事进行对接，进行[Samsung Food](https://samsungfood.com/)的中国区特性部署和开发，工作中我掌握了AWS(亚马逊云)的常用组件，云服务架构，以及docker、CICD等流行开发技术，英语工作环境写锻炼了我的英语文档阅读能力。
 
@@ -57,42 +57,36 @@ redirect_from:
 
 # 📄 Projects
 
-***Sensys 2024 - ACM Conference on Embedded Networked Sensor Systems, Hangzhou, China, 2024***
+**[AI聊天微服务应用](http://xihuanwanyuanshen.icu/)**
 
-Demo: CTSim: A Scalable and Flexible Cybertwin Network
-Simulator for Internet of Things Scenarios.
+此项目以应用OpenAI技术，对接DeepSeek、OpenAI等大模型提供生成式服务。项目的架构设计实现以微服务进行拆分，部署到云服务器对外提供服务。
+* 采用 DDD 架构 API，以及便于不同领域模块的独立设计，使用设计模式提高代码的简洁性和维护性。
+* 使用异步流式响应减少接口响应时间，责任链模式完成登录鉴权、访问次数限制、敏感词过滤等功能。
+* CICD
 
-**Yuke Ma**, Shihan Lin, Yang Chen*, Jun Wu
 
----
 
-***ICC 2023 - IEEE International Conference on Communications, Rome, Italy, 2023***
 
-[SocialCache: A Pervasive Social-Aware Caching Strategy for Self-Operated Content Delivery Networks of Online Social Networks.](https://doi.org/10.1109/ICC45041.2023.10279588)
+**项目2**
 
-Tiancheng Guo, **Yuke Ma**, Mengying Zhou, Xin Wang, Jun Wu, Yang Chen.
 
----
 
-***Information, 2022, Volume 13***
 
-[DNS Request Log Analysis of Universities in Shanghai: A CDN Service Provider’s Perspective (mdpi.com)](https://www.mdpi.com/2078-2489/13/11/542)
-
-Zhiyang Sun, Tiancheng Guo, Shiyu Luo, Yingqiu Zhuang, **Yuke Ma**, Yang Chen, Xin Wang.
-
----
 
 # 🎓 Education
 
 
-- **Undergraduate Student of Computer Science and Technology  (Sep. 2020 - Jun. 2024)**
+- **Undergraduate Student of Computer Science and Technology  (2020.9 - 2024.6)**
+
+在本科阶段，我深入学习了从数字电路到人工智能的各项计算机基础知识，阅读了《Modern Operating System》、《CSAPP》等经典教材，并通过实践逐步探索了“hello, world”背后的深层次原理。四年的学习不仅锤炼了我的计算机应用能力，还扩展了我对计算机技术的理解，使其逐渐成为我兴趣所在与未来发展的基石。在这一过程中，我特别关注计算机的工程应用，尤其是Web开发与系统软件，积累了较为深入的实践经验。通过这些学习和实践，我更加坚定了在计算机领域深耕细作的决心，期望在研究生阶段能够进一步深化专业知识，拓宽技术视野。
+[本科成绩单](http://xihuanwanyuanshen.icu/static/grade.pdf)
 
 <div style="display: flex; align-items: center;">
     <img src="../images/nuist.png" alt="fdu" width="100" height="100" style="margin-right: 2ch;">
     <div>
         <blockquote>
-            Dalian University of Technology<br>
-            School of Computer Science and technology
+            Nanjing University of Information<br>
+            Science and Technology
         </blockquote>
     </div>
 </div>
