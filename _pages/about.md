@@ -51,18 +51,18 @@ redirect_from:
 
 
 
-工程经历：大二下学期我在中国电信实习，担任JAVA后端开发。任职期间开发并上线了其旗下微信小程序一项流量提速业务功能(使用Redis锁阻止恶意短信攻击，使用消息队列处理超时订单)。2024.6.18-2024.9.20期间我在三星中国研发中心(南京)Iot部门担任云服务开发工程师，负责[三星物联网设备](https://www.samsung.com/us/smartthings/?CID=afl-ecomm-rkt-cha-040122-url_Cashback+on+Bing+for+Edge+browser&utm_source=url_Cashback+on+Bing+for+Edge+browser&utm_medium=affiliate&utm_campaign=1&utm_content=3829940&rktevent=Cashback+on+Bing+for+Edge+browser__jZHTpnCvx8-_QtrxnYSwxYlNGQLTH6fWw&ranMID=47773&ranEAID=%2FjZHTpnCvx8&ranSiteID=_jZHTpnCvx8-_QtrxnYSwxYlNGQLTH6fWw)的后端服务开发。任职期间我主要负责和英国同事进行对接，进行[Samsung Food](https://samsungfood.com/)的中国区特性部署和开发，工作中我掌握了AWS(亚马逊云)的常用组件，云服务架构，以及docker、CICD等流行开发技术，英语工作环境写锻炼了我的英语文档阅读能力。
 
 现在我在学习从机器学习到大模型的基础知识
 
 # 📄 Projects
 
-**[AI聊天微服务应用](http://xihuanwanyuanshen.icu/)**
+**[AI聊天chatbot](http://xihuanwanyuanshen.icu/)**
 
-此项目以应用OpenAI技术，对接DeepSeek、OpenAI等大模型提供生成式服务。项目的架构设计实现以微服务进行拆分，部署到云服务器对外提供服务。
-* 采用 DDD 架构 API，以及便于不同领域模块的独立设计，使用设计模式提高代码的简洁性和维护性。
-* 使用异步流式响应减少接口响应时间，责任链模式完成登录鉴权、访问次数限制、敏感词过滤等功能。
-* CICD
+此项目以应用LLM技术，对接DeepSeek、OpenAI等大模型提供生成式服务。项目采用微服务架构设计，部署到云服务器对外提供服务。
+* 采用 DDD 架构 API，以及便于不同领域模块的独立设计，使用多种设计模式提高代码的简洁性和维护性。
+* 使用异步流式响应减少接口响应时间，使用责任链模式提供登录鉴权、访问次数限制、敏感词过滤等功能。
+* 使用GitHub的workflow实现CICD，自动打包并发布镜像，利用LLM实现自动代码评审功能。
+* 基于k8s的部署，负载均衡
 
 
 
@@ -78,9 +78,6 @@ redirect_from:
 
 - **Undergraduate Student of Computer Science and Technology  (2020.9 - 2024.6)**
 
-在本科阶段，我深入学习了从数字电路到人工智能的各项计算机基础知识，阅读了《Modern Operating System》、《CSAPP》等经典教材，并通过实践逐步探索了“hello, world”背后的深层次原理。四年的学习不仅锤炼了我的计算机应用能力，还扩展了我对计算机技术的理解，使其逐渐成为我兴趣所在与未来发展的基石。在这一过程中，我特别关注计算机的工程应用，尤其是Web开发与系统软件，积累了较为深入的实践经验。通过这些学习和实践，我更加坚定了在计算机领域深耕细作的决心，期望在研究生阶段能够进一步深化专业知识，拓宽技术视野。
-[本科成绩单](http://xihuanwanyuanshen.icu/static/grade.pdf)
-
 <div style="display: flex; align-items: center;">
     <img src="../images/nuist.png" alt="fdu" width="100" height="100" style="margin-right: 2ch;">
     <div>
@@ -91,14 +88,33 @@ redirect_from:
     </div>
 </div>
 
+在本科阶段，我深入学习了从数字电路到人工智能的各项计算机基础知识，阅读了《Modern Operating System》、《CSAPP》等经典教材，并通过实践逐步探索了“hello, world”背后的深层次原理。四年的学习不仅锤炼了我的计算机应用能力，还扩展了我对计算机技术的理解，使其逐渐成为我兴趣所在与未来发展的基石。在这一过程中，我特别关注计算机的工程应用，尤其是Web开发与系统软件，积累了较为深入的实践经验。通过这些学习和实践，我更加坚定了在计算机领域深耕细作的决心，期望在研究生阶段能够进一步深化专业知识，拓宽技术视野。  
+[本科成绩单](http://xihuanwanyuanshen.icu/static/grade.pdf)
+
+
+
 # 💼 Employment
 
-- **Embedded Software Engineer, TP-Link Technologies Co., Ltd. (Jul.2020 - Jun. 2022)** 
+- **JAVA开发实习生, 中国电信  (2023.1 - 2023-3)** 
+<div style="display: flex; align-items: center;">
+    <img src="../images/中国电信.jpg" alt="tplink" width="150" height="100">
+        <blockquote>
+            参与旗下微信小程序118114聪明生活的开发和维护<br>
+            独立开发完成流量提速业务功能的升级改造<br>
+            改造登录接口,实现基于JWT的token登录。完善发送短信接口,防止短信爆破<br>
+            使用基于Redisson的延时队列处理超时订单
+        </blockquote>
+</div>
+
+- **云服务工程师, 三星中国研发中心  (2024.6 - 2024-9)** 
 <div style="display: flex; align-items: center;">
     <img src="../images/samsung.jpg" alt="tplink" width="150" height="100">
         <blockquote>
-            Consumer Electronics R&D Department, Intelligent Security Equipment Group (2020-2021)<br>
-            Consumer Electronics R&D Department, Robotics Group (2021-2022)
+            就职于Iot部门，负责[三星物联网(SmartThings)](https://www.samsung.com/us/smartthings/)相关生态的开发<br>
+            我所在的DA_Service_Team主要负责如[SamsungFood](https://samsungfood.com/)等服务的开发，为智能设备提供内容支持。<br>
+            工作中主要使用的技术栈和文化为JAVA、TypeScript、AWS、DevOps<br>
+            任职期间我主要负责和英国团队进行对接，进行SamsungFood的中国区特性开发和部署<br>
+            英语工作环境以及和世界各地的同事的对接锻炼了我的英语和团队合作能力<br>
         </blockquote>
 </div>
 
@@ -106,27 +122,29 @@ redirect_from:
 # 🏆 Honors and Awards
 
 <ul>
-  <li>Fudan University Academic Excellence Scholarship, First Class, 2023</li>
-  <li>Fudan University Graduate Freshman Scholarship, 2022</li>
-  <li>National Inspirational Scholarship, 2019</li>
-  <li>Dalian University of Technology Excellent Scholarship, 2018</li>
+  <li>蓝桥杯C++江苏省二等奖 2022</li>
+  <li>校二等奖学金 2021</li>
+  <li>校ACM竞赛三等奖 2020</li>
 </ul>
 
 # 🛠️ Skills
 
-- **Programming Languages**: C/C++, Python, Shell, Go, Verilog
+- **Programming Languages**: JAVA,C++,SQL,TypeScript,Python
 
 <div class="image-container">
-  <img src="../images/The_C_Programming_Language_logo.svg.png" alt="C/C++" width="50" height="50">
+  <img src="../images/JAVA.jpg" alt="C/C++" width="50" height="50">
   <img src="../images/ISO_C++_Logo.svg.png" alt="C/C++" width="50" height="50">
-  <img src="../images/Gnu-bash-logo.svg.png" alt="C/C++" width="100" height="50">
+  <img src="../images/sql.png" alt="Go" width="50" height="50">
+  <img src="../images/typescript.png" alt="C/C++" width="100" height="50">
   <img src="../images/Python-logo-notext.svg.png" alt="Python" width="50" height="50">
-  <img src="../images/215px-Go_Logo_Blue.svg.png" alt="Go" width="50" height="50">
-  <img src="../images/verilog.jpg" alt="Verilog" width="50" height="50">
 </div>
 
 <div class="skill-container">
-I have more than three years of experience building large software systems using C/C++, so I am proficient in both C/C++ and shell scripting languages. I have also used Python for network measurement and simulation, as well as Go for cloud-native development. Additionally, I have experience with Verilog for FPGA development.
+    <li>JAVA是我使用最多的语言，熟悉包括从JVM到语言特性到框架，具有大量工程经验</li>
+    <li>我会用C++写算法题，熟悉它的STL及部分特性</li>
+    <li>SQL几乎成了所有后端工程师的必备技能了，我可以使用SQL写复杂查询</li>
+    <li>我使用JS写过页面，工作后发现TS构建服务也很方便，欣赏动态语言的干练，但并不熟练</li>
+    <li>使用Python完成一些机器学习方面的任务</li>
 </div>
 
 - **Operating Systems**: Linux, Docker, Kubernetes
