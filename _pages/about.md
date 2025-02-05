@@ -52,7 +52,7 @@ redirect_from:
 
 
 
-现在我在学习从机器学习到大模型的基础知识
+<!-- 现在我在学习从机器学习到大模型的基础知识 -->
 
 # 📄 Projects
 
@@ -88,12 +88,11 @@ redirect_from:
     </div>
 </div>
 <br>
-在本科阶段，我深入学习了从数字电路到人工智能的各项计算机基础知识，阅读了《Modern Operating System》、《CSAPP》等经典教材，并通过实践逐步探索了“hello, world”背后的深层次原理。  
-在这一过程中，我特别关注计算机的工程应用，尤其是Web开发与系统软件，积累了较为深入的实践经验。  
-通过这些学习和实践，我更加坚定了在计算机领域深耕细作的决心，期望在研究生阶段能够进一步深化专业知识，拓宽技术视野。 
+<li>在本科阶段，我深入学习了从数字电路到人工智能的各项计算机基础知识，阅读了《Modern Operating System》、《CSAPP》等经典教材，并通过实践逐步探索了“hello, world”背后的深层次原理。  </li>
+<li>在这一过程中，我特别关注计算机的工程应用，尤其是Web开发与系统软件，积累了较为深入的实践经验。</li>
+<li>通过这些学习和实践，我更加坚定了在计算机领域深耕细作的决心，期望在研究生阶段能够进一步深化专业知识，拓宽技术视野。 </li>
 <br> 
 [本科成绩单](http://xihuanwanyuanshen.icu/static/grade.pdf)
-
 
 
 # 💼 Employment
@@ -104,7 +103,8 @@ redirect_from:
         <blockquote>
             <li>参与旗下微信小程序118114聪明生活的开发和维护</li>
             <li>独立开发完成流量提速业务功能的升级改造</li>
-            <li>改造登录接口,实现基于JWT的token登录。完善发送短信接口,防止短信爆破</li>
+            <li>开发基于JWT的token登录功能</li>
+            <li>改进发送短信接口,防止短信爆破</li>
             <li>使用基于Redisson的延时队列处理超时订单</li>
         </blockquote>
 </div>
@@ -113,7 +113,7 @@ redirect_from:
 <div style="display: flex; align-items: center;">
     <img src="../images/samsung.jpg" alt="tplink" width="150" height="100">
         <blockquote>
-          <li> 所在的Iot部门负责<a href="https://www.samsung.com/us/smartthings/" target="_blank">三星物联网(SmartThings)</a>相关生态的开发</li>
+          <li> 就职的Iot部门负责<a href="https://www.samsung.com/us/smartthings/" target="_blank">三星物联网(SmartThings)</a>相关生态的开发</li>
           <li> 我所在的DA_Service_Team主要负责如<a href="https://samsungfood.com/" target="_blank">SamsungFood</a>等服务的开发，为智能设备提供内容支持。</li>
           <li>任职期间我主要负责和英国团队进行对接，进行SamsungFood的中国区特性开发和部署</li>
           <li>工作中主要使用的技术栈和文化为JAVA、TypeScript、AWS、DevOps，构建云服务</li>
@@ -135,10 +135,10 @@ redirect_from:
 - **Programming Languages**: JAVA, C++, SQL, TypeScript, Python
 
 <div class="image-container">
-  <img src="../images/Java.jpg" alt="C/C++" width="50" height="50">
+  <img src="../images/java.jpg" alt="C/C++" width="50" height="50">
   <img src="../images/ISO_C++_Logo.svg.png" alt="C/C++" width="50" height="50">
   <img src="../images/sql.png" alt="Go" width="50" height="50">
-  <img src="../images/typescript.png" alt="C/C++" width="50" height="50">
+  <img src="../images/typescript.jpg" alt="C/C++" width="100" height="50">
   <img src="../images/Python-logo-notext.svg.png" alt="Python" width="50" height="50">
 </div>
 
@@ -169,8 +169,8 @@ redirect_from:
 - **Database and Tools**:  Mysql, Redis, Mongo, Kafka, Nginx
 
 <div class="image-container">
-  <img src="../images/mysql.jpg" alt="Tux" width="50" height="50">
-  <img src="../images/redis.png" alt="ZMap" width="50" height="50">
+  <img src="../images/mysql.jpg" alt="Tux" width="100" height="50">
+  <img src="../images/redis.jpg" alt="ZMap" width="50" height="50">
   <img src="../images/mongo.svg" alt="Docker" width="100" height="50">
   <img src="../images/kafka.jpg" alt="ZMap" width="100" height="50">
   <img src="../images/nginx.jpg" alt="k8s" width="50" height="50">
