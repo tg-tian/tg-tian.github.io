@@ -67,6 +67,7 @@ redirect_from:
 
 
 **基于BERT的文本情绪分类（进行中）**
+
 对比从MLP到BERT的多种模型处理文本分类问题
 
 
@@ -111,7 +112,7 @@ redirect_from:
         <blockquote>
           <li> 就职的IoT部门负责<a href="https://www.samsung.com/us/smartthings/" target="_blank">三星物联网(SmartThings)</a>相关生态的开发</li>
           <li> 我所在的DA_Service_Team主要负责为智能设备提供后端服务。</li>
-          <li>工作内容为和英国团队进行对接，进行<a href="https://samsungfood.com/" target="_blank">SamsungFood</a>等服务的中国区特性开发和部署</li>
+          <li>和英国团队合作，进行<a href="https://samsungfood.com/" target="_blank">SamsungFood</a>的中国区开发和部署</li>
           <li>基于AWS开发云原生应用</li>
           <li>使用英语作为日常工作交流语言</li>
         </blockquote>
@@ -139,10 +140,10 @@ redirect_from:
 </div>
 
 <div class="skill-container">
-    <li>JAVA 是我使用最多的语言，熟悉包括从 JVM 到常用框架，具有大量工程经验</li>
+    <li>JAVA 是我使用最多的语言，熟悉从 JVM 到常用框架，具有大量工程经验</li>
     <li>熟悉 C++ 的基本语法和高级特性，如指针、引用、STL。</li>
-    <li>能够编写复杂的查询语句，如多表连接、子查询、聚合函数等，并了解数据库优化技巧如索引的使用。</li>
-    <li>使用JS开发过简单前端应用，并能够与后端 API 进行数据交互</li>
+    <li>能够编写复杂的查询语句，了解数据库优化技巧如索引的使用。</li>
+    <li>使用JS开发过简单前端应用，与后端 API 进行数据交互</li>
     <li>能够使用 Python 进行数据处理、机器学习模型开发</li>
 </div>
 
@@ -156,7 +157,7 @@ redirect_from:
 </div>
 
 <div class="skill-container">
-    <li>熟悉 Linux 的基本操作和命令行工具，在实际项目中使用 Linux 作为开发和部署环境，并能够排查系统问题/li>
+    <li>熟悉 Linux 的基本操作和工具，使用 Linux 作为开发和部署环境，并能够排查系统问题</li>
     <li>熟练掌握 Git 的基本操作，能够在团队中高效协作，并与 CI/CD 工具集成以实现自动化部署。</li>
     <li>熟悉 Docker 的基本概念和操作，使用 Docker 来隔离开发环境、简化部署流程</li>
     <li>熟悉 AWS 的核心服务，如 EC2、Lambda，使用 AWS 构建和部署云原生应用</li>
