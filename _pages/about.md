@@ -91,7 +91,7 @@ redirect_from:
 [本科成绩单](http://xihuanwanyuanshen.icu/static/grade.pdf)
 
 
-# 💼 Employment
+# 💼 Work Experience
 
 - **JAVA开发实习生, 中国电信  (2023.1 - 2023.3)** 
 <div style="display: flex; align-items: center;">
