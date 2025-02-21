@@ -105,7 +105,7 @@ redirect_from:
         </blockquote>
 </div>
 
-- **云服务工程师, 三星中国研发中心  (2024.6 - 2024.9)** 
+- **云服务工程师, 三星中国研发中心  (2024.4 - 2024.9)** 
 <div style="display: flex; align-items: center;">
     <img src="../images/samsung.jpg" alt="tplink" width="150" height="100">
         <blockquote>
