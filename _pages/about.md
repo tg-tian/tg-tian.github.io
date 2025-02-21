@@ -66,11 +66,9 @@ redirect_from:
 
 
 
-**基于BERT的自然语言推理模型（进行中）**
-<!-- 本项目以自然语言推理任务为核心，通过在SNLI数据集上微调BERT模型，实现了文本语义关系的精准识别与分类。
-* 项目基于BER语言模型，在SNLI数据集上进行微调，显著提升了模型在自然语言推理任务上的性能。这一过程深入实践了迁移学习的核心思想，展现了利用大规模预训练模型解决特定领域任务的能力。
-* 项目涵盖了从数据预处理、模型训练到性能评估的完整深度学习流程。通过实践，深入掌握了词嵌入、注意力机制以及Transformer架构等核心NLP技术，为后续研究更复杂的语言模型奠定了基础。
-* 在微调过程中，项目采用了学习率调度、梯度裁剪等优化技术，确保模型训练的稳定性和高效性。同时，通过准确率、F1值等指标对模型性能进行了全面评估，验证了模型在文本语义推理任务上的有效性。 -->
+**基于BERT的文本情绪分类（进行中）**
+对比从MLP到BERT的多种模型处理文本分类问题
+
 
 # 🎓 Education
 
@@ -87,9 +85,8 @@ redirect_from:
     </div>
 </div>
 <br>
-<li>在本科阶段，我深入学习了从数字电路到人工智能的各项计算机基础知识，阅读了《Modern Operating System》、《CSAPP》等经典教材，并通过实践逐步探索了“hello, world”背后的深层次原理。  </li>
-<li>在这一过程中，我特别关注计算机的工程应用，尤其是Web开发与系统软件，积累了较为深入的实践经验。</li>
-<li>通过这些学习和实践，我更加坚定了在计算机领域深耕细作的决心，期望在研究生阶段能够进一步深化专业知识，拓宽技术视野。 </li>
+<li>在本科阶段我培养了良好的计算机专业素养和扎实的代码能力  </li>
+<li>我特别关注计算机的工程应用，尤其是Web开发与系统软件，积累了较为深入的实践经验。</li>
 <br> 
 [本科成绩单](http://xihuanwanyuanshen.icu/static/grade.pdf)
 
@@ -101,7 +98,7 @@ redirect_from:
     <img src="../images/中国电信.jpg" alt="tplink" width="150" height="100">
         <blockquote>
             <li>参与旗下微信小程序118114聪明生活的开发和维护</li>
-            <li>独立开发完成流量提速业务功能的升级改造</li>
+            <li>独立完成流量提速业务功能的升级改造</li>
             <li>开发基于JWT的token登录功能</li>
             <li>改进发送短信接口,防止短信爆破</li>
             <li>使用基于Redisson的延时队列处理超时订单</li>
@@ -112,11 +109,11 @@ redirect_from:
 <div style="display: flex; align-items: center;">
     <img src="../images/samsung.jpg" alt="tplink" width="150" height="100">
         <blockquote>
-          <li> 就职的Iot部门负责<a href="https://www.samsung.com/us/smartthings/" target="_blank">三星物联网(SmartThings)</a>相关生态的开发</li>
-          <li> 我所在的DA_Service_Team主要负责如<a href="https://samsungfood.com/" target="_blank">SamsungFood</a>等服务的开发，为智能设备提供内容支持。</li>
-          <li>任职期间我主要负责和英国团队进行对接，进行SamsungFood的中国区特性开发和部署</li>
-          <li>工作中主要使用的技术栈和文化为JAVA、TypeScript、AWS、DevOps，构建云服务</li>
-          <li>英语工作环境以及和世界各地的同事的对接锻炼了我的英语和团队合作能力</li>
+          <li> 就职的IoT部门负责<a href="https://www.samsung.com/us/smartthings/" target="_blank">三星物联网(SmartThings)</a>相关生态的开发</li>
+          <li> 我所在的DA_Service_Team主要负责为智能设备提供后端服务。</li>
+          <li>工作内容为和英国团队进行对接，进行<a href="https://samsungfood.com/" target="_blank">SamsungFood</a>等服务的中国区特性开发和部署</li>
+          <li>基于AWS开发云原生应用</li>
+          <li>使用英语作为日常工作交流语言</li>
         </blockquote>
 </div>
 
@@ -134,7 +131,7 @@ redirect_from:
 - **Programming Languages**: JAVA, C++, SQL, TypeScript, Python
 
 <div class="image-container">
-  <img src="../images/java.jpg" alt="C/C++" width="50" height="50">
+  <img src="../images/java.svg.png" alt="C/C++" width="50" height="50">
   <img src="../images/ISO_C++_Logo.svg.png" alt="C/C++" width="50" height="50">
   <img src="../images/sql.png" alt="Go" width="50" height="50">
   <img src="../images/typescript.jpg" alt="C/C++" width="100" height="50">
@@ -142,11 +139,11 @@ redirect_from:
 </div>
 
 <div class="skill-container">
-    <li>JAVA是我使用最多的语言，熟悉包括从JVM到语言特性到框架，具有大量工程经验</li>
-    <li>我会用C++写算法题，熟悉它的STL及部分特性</li>
-    <li>SQL几乎成了所有后端工程师的必备技能了，我可以使用SQL写复杂查询</li>
-    <li>我使用JS写过页面，工作后发现TS构建服务也很方便，欣赏动态语言的干练，但并不熟练</li>
-    <li>使用Python完成一些机器学习方面的任务</li>
+    <li>JAVA 是我使用最多的语言，熟悉包括从 JVM 到常用框架，具有大量工程经验</li>
+    <li>熟悉 C++ 的基本语法和高级特性，如指针、引用、STL。</li>
+    <li>能够编写复杂的查询语句，如多表连接、子查询、聚合函数等，并了解数据库优化技巧如索引的使用。</li>
+    <li>使用JS开发过简单前端应用，并能够与后端 API 进行数据交互</li>
+    <li>能够使用 Python 进行数据处理、机器学习模型开发</li>
 </div>
 
 - **Operating Systems**: Linux, Git, Docker, AWS, Kubernetes
@@ -159,10 +156,11 @@ redirect_from:
 </div>
 
 <div class="skill-container">
-    <li>在工作和学习中我会大量使用Linux，熟悉其概念和使用</li>
-    <li>日常使用Git进行代码管理和合作开发</li>
-    <li>系统学习过AWS，熟悉其组件和服务架构</li>
-    <li>使用docker+k8s部署可移植和高可用的应用</li>
+    <li>熟悉 Linux 的基本操作和命令行工具，在实际项目中使用 Linux 作为开发和部署环境，并能够排查系统问题/li>
+    <li>熟练掌握 Git 的基本操作，能够在团队中高效协作，并与 CI/CD 工具集成以实现自动化部署。</li>
+    <li>熟悉 Docker 的基本概念和操作，使用 Docker 来隔离开发环境、简化部署流程</li>
+    <li>熟悉 AWS 的核心服务，如 EC2、Lambda，使用 AWS 构建和部署云原生应用</li>
+    <li>熟悉 Kubernetes 的核心概念，使用 Kubernetes 来管理容器化应用的部署和扩展，并能够与 CI/CD 工具集成以实现持续交付/li>
 </div>
 
 - **Database and Tools**:  Mysql, Redis, Mongo, Kafka, Nginx
