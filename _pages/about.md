@@ -74,14 +74,13 @@ redirect_from:
 # 🎓 Education
 
 
-- **Undergraduate Student of Computer Science and Technology  (2020.9 - 2024.6)**
+- **计算机科学与技术 (2020.9 - 2024.6)**
 
 <div style="display: flex; align-items: center;">
     <img src="../images/nuist.png" alt="fdu" width="100" height="100" style="margin-right: 2ch;">
     <div>
         <blockquote>
-            Nanjing University of Information<br>
-            Science and Technology
+            南京信息工程大学
         </blockquote>
     </div>
 </div>
@@ -161,7 +160,7 @@ redirect_from:
     <li>熟练掌握 Git 的基本操作，能够在团队中高效协作，并与 CI/CD 工具集成以实现自动化部署。</li>
     <li>熟悉 Docker 的基本概念和操作，使用 Docker 来隔离开发环境、简化部署流程</li>
     <li>熟悉 AWS 的核心服务，如 EC2、Lambda，使用 AWS 构建和部署云原生应用</li>
-    <li>熟悉 Kubernetes 的核心概念，使用 Kubernetes 来管理容器化应用的部署和扩展，并能够与 CI/CD 工具集成以实现持续交付/li>
+    <li>熟悉 Kubernetes 的核心概念，使用 Kubernetes 来管理容器化应用的部署和扩展，并能够与 CI/CD 工具集成以实现持续交付</li>
 </div>
 
 - **Database and Tools**:  Mysql, Redis, Mongo, Kafka, Nginx
