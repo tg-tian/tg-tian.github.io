@@ -61,9 +61,11 @@ redirect_from:
 * 基于GitHub Actions实现了完整的CI/CD流程，支持自动化代码构建、测试、镜像打包及发布。结合LLM技术，创新性地引入了自动化代码评审功能，进一步提升了代码质量和开发效率。
 * 项目依托Kubernetes（k8s）进行容器化部署，充分利用其弹性伸缩和负载均衡能力，确保服务的高可用性和高性能。
 
-<div class="image-container" style="text-align: center; width: 100%;">
-  <img src="../images/pj1_pic4.png" alt="Project Image 1" width="650" height="500" style="display: block; margin: 10px auto;">
-  <p style="margin-top: 10px; font-size: 16px; color: #333;">项目整体架构图</p>
+<div class="image-container" style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <div style="text-align: center; width: 100%; margin-bottom: 20px;">
+    <img src="../images/pj1_pic4.png" alt="Project Image 1" width="650" height="500" style="display: block; margin: 0px auto;">
+    <p style="margin-top: 10px; font-size: 16px; color: #333;">项目整体架构图</p>
+  </div>
 </div>
 <div class="image-container" style="display: flex; justify-content: space-between; flex-wrap: wrap;">
   <div style="text-align: center; width: 30%; margin-bottom: 20px;">
