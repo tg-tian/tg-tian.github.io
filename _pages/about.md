@@ -62,7 +62,7 @@ redirect_from:
 * 项目依托Kubernetes（k8s）进行容器化部署，充分利用其弹性伸缩和负载均衡能力，确保服务的高可用性和高性能。
 
 <div class="image-container" style="text-align: center; width: 100%;">
-  <img src="../images/pj1_pic4.png" alt="Project Image 1" width="500" height="375" style="display: block; margin: 10px auto;">
+  <img src="../images/pj1_pic4.png" alt="Project Image 1" width="650" height="500" style="display: block; margin: 10px auto;">
   <p style="margin-top: 10px; font-size: 16px; color: #333;">项目整体架构图</p>
 </div>
 <div class="image-container" style="display: flex; justify-content: space-between; flex-wrap: wrap;">
