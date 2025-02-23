@@ -62,27 +62,28 @@ redirect_from:
 * 项目依托Kubernetes（k8s）进行容器化部署，充分利用其弹性伸缩和负载均衡能力，确保服务的高可用性和高性能。
 
 <div class="image-container">
-  <img src="../images/pj1_pic4.png" alt="Project Image 1" width="400" height="300" style="margin: 10px;">
+  <img src="../images/pj1_pic4.png" alt="Project Image 1" width="500" height="375" style="margin: 10px;">
   <p>项目整体架构图</p>
 </div>
 <div class="image-container">
-  <img src="../images/pj1_pic1.png" alt="Project Image 2" width="200" height="150" style="margin: 10px;">
+  <img src="../images/pj1_pic1.png" alt="Project Image 2" width="250" height="188" style="margin: 10px;">
   <p>演示demo</p>
-  <img src="../images/pj1_pic2.png" alt="Project Image 3" width="200" height="150" style="margin: 10px;">
+  <img src="../images/pj1_pic2.png" alt="Project Image 3" width="250" height="188" style="margin: 10px;">
   <p>CodeReview功能</p>
-  <img src="../images/pj1_pic3.png" alt="Project Image 4" width="200" height="150" style="margin: 10px;">
+  <img src="../images/pj1_pic3.png" alt="Project Image 4" width="250" height="188" style="margin: 10px;">
   <p>K8S部署</p>
 </div>
 
 **基于BERT的烂番茄影评情绪分类**
+
 Ongoing,目前实现了基于MLP(59%) CNN(63%) RNN(82%)的分类
 
 通过从传统模型的完整实践，深入理解NLP任务中特征工程、局部语义建模、序列依赖关系、上下文感知等核心技术的迭代逻辑，建立对深度学习模型设计原则（如参数量、计算效率、泛化能力）的全局认知。之后拓展至Transformer自注意力机制，复现BERT并对比RNN在长文本情感捕捉中的性能差异，探索预训练（如Masked Language Modeling）对领域适配性的提升作用。
 
 <div class="image-container">
-  <img src="../images/pj2_pic1.png" alt="BERT Project Image 1" width="200" height="150" style="margin: 10px;">
+  <img src="../images/pj2_pic1.png" alt="BERT Project Image 1" width="250" height="188" style="margin: 10px;">
   <p>RNN分类</p>
-  <img src="../images/pj2_pic2.png" alt="BERT Project Image 2" width="200" height="150" style="margin: 10px;">
+  <img src="../images/pj2_pic2.png" alt="BERT Project Image 2" width="250" height="188" style="margin: 10px;">
   <p>训练过程示意图</p>
 </div>
 
