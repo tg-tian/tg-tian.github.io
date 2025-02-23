@@ -55,20 +55,36 @@ redirect_from:
 
 **[AI Chatbot](http://xihuanwanyuanshen.icu/)**
 
-本项目基于先进的LLM（大语言模型）技术，整合了DeepSeek、OpenAI等领先的生成式AI模型，提供高效、智能的对话服务。项目采用现代化的微服务架构，部署于云端，具备高可用性和可扩展性，能够满足多样化的业务需求。
+本项目基于先进的LLM技术，整合了DeepSeek、OpenAI等领先的生成式AI模型，提供高效、智能的对话服务。项目采用现代化的微服务架构，部署于云端，具备高可用性和可扩展性，能够满足多样化的业务需求。
 * 项目采用DDD架构设计，通过清晰的领域划分和模块化设计，确保各功能模块的独立性和可维护性。结合多种设计模式，代码结构简洁高效，便于后续迭代和扩展。
 * 通过异步流式响应技术，显著降低了接口响应时间，提升了用户体验。同时，采用责任链模式实现了多层次的功能扩展，包括登录鉴权、访问频率限制、敏感词过滤等，确保系统的安全性和稳定性。
 * 基于GitHub Actions实现了完整的CI/CD流程，支持自动化代码构建、测试、镜像打包及发布。结合LLM技术，创新性地引入了自动化代码评审功能，进一步提升了代码质量和开发效率。
-* 项目依托Kubernetes（k8s）进行容器化部署，充分利用其弹性伸缩和负载均衡能力，确保服务的高可用性和高性能。同时，通过监控和日志系统，实现了对系统运行状态的实时跟踪和优化。
+* 项目依托Kubernetes（k8s）进行容器化部署，充分利用其弹性伸缩和负载均衡能力，确保服务的高可用性和高性能。
 
+<div class="image-container">
+  <img src="../images/pj1_pic4.png" alt="Project Image 1" width="400" height="300" style="margin: 10px;">
+  <p>项目整体架构图</p>
+</div>
+<div class="image-container">
+  <img src="../images/pj1_pic1.png" alt="Project Image 2" width="200" height="150" style="margin: 10px;">
+  <p>演示demo</p>
+  <img src="../images/pj1_pic2.png" alt="Project Image 3" width="200" height="150" style="margin: 10px;">
+  <p>CodeReview功能</p>
+  <img src="../images/pj1_pic3.png" alt="Project Image 4" width="200" height="150" style="margin: 10px;">
+  <p>K8S部署</p>
+</div>
 
+**基于BERT的烂番茄影评情绪分类**
+Ongoing,目前实现了基于MLP(59%) CNN(63%) RNN(82%)的分类
 
+通过从传统模型的完整实践，深入理解NLP任务中特征工程、局部语义建模、序列依赖关系、上下文感知等核心技术的迭代逻辑，建立对深度学习模型设计原则（如参数量、计算效率、泛化能力）的全局认知。之后拓展至Transformer自注意力机制，复现BERT并对比RNN在长文本情感捕捉中的性能差异，探索预训练（如Masked Language Modeling）对领域适配性的提升作用。
 
-
-
-**基于BERT的文本情绪分类（进行中）**
-
-对比从MLP到BERT的多种模型处理文本分类问题
+<div class="image-container">
+  <img src="../images/pj2_pic1.png" alt="BERT Project Image 1" width="200" height="150" style="margin: 10px;">
+  <p>RNN分类</p>
+  <img src="../images/pj2_pic2.png" alt="BERT Project Image 2" width="200" height="150" style="margin: 10px;">
+  <p>训练过程示意图</p>
+</div>
 
 
 # 🎓 Education
